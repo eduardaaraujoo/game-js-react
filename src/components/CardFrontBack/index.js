@@ -1,5 +1,5 @@
 import CardGame from "../CardGame";
-import './style.css';
+import "./style.css";
 
 
 function CardFrontBack() {

@@ -10,7 +10,7 @@
     cursor: pointer;
 }
 
-.card-front-back .-active {
+.card-front-back.-active {
     transform: rotateY(180deg);
 }
 

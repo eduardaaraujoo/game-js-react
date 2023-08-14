@@ -1,4 +1,4 @@
- import './style.css'
+ import './style.css';
  
  function CardGame(icon = "alura-pixel", alt = "Logo da Alura") {
     return `
